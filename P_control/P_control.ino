@@ -25,7 +25,7 @@
 
 // Servo speed control
 #define _SERVO_ANGLE 30.0
-#define _SERVO_SPEED 600.0
+#define _SERVO_SPEED 800.0
 
 // Event periods
 #define _INTERVAL_DIST 30
@@ -33,7 +33,7 @@
 #define _INTERVAL_SERIAL 100 
 
 // PID parameters
-#define _KP 0.06
+#define _KP 0.05
 
 //dist 100, 400mm 일때 값, 각자 a,b로 수정
 #define a 69
